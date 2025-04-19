@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Employees xmlns:emp="https://linkedin.com/learning/csharp/essentials/2">
+	<Employee>
+		<FirstName>Matt</FirstName>
+		<LastName>Manager</LastName>
+		<Id>1</Id>
+	</Employee>
+	<Employee>
+		<FirstName>Felicia</FirstName>
+		<LastName>FinanceDirector</LastName>
+		<Id>2</Id>
+	</Employee>
+	<Employee>
+		<FirstName>Pinal</FirstName>
+		<LastName>PropertyManagement</LastName>
+		<Id>3</Id>
+	</Employee>
+	<Employee>
+		<FirstName>Amanda</FirstName>
+		<LastName>Accounting</LastName>
+		<Id>4</Id>
+	</Employee>
+	<Employee>
+		<FirstName>Xi</FirstName>
+		<LastName>CXO</LastName>
+		<Id>5</Id>
+	</Employee>
+</Employees>

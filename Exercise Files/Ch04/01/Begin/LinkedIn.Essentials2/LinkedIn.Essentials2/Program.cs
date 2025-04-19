@@ -1,0 +1,3 @@
+﻿using Essentials2.Library;
+
+ThreadSamples.SimpleThread();

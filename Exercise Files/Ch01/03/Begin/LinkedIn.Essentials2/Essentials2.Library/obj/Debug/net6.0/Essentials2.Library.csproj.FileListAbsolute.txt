@@ -1,0 +1,11 @@
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 2 Generics, Collections, and LINQ\Exercise Files\Ch01\03\Begin\LinkedIn.Essentials2\Essentials2.Library\bin\Debug\net6.0\Essentials2.Library.deps.json
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 2 Generics, Collections, and LINQ\Exercise Files\Ch01\03\Begin\LinkedIn.Essentials2\Essentials2.Library\bin\Debug\net6.0\Essentials2.Library.dll
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 2 Generics, Collections, and LINQ\Exercise Files\Ch01\03\Begin\LinkedIn.Essentials2\Essentials2.Library\bin\Debug\net6.0\Essentials2.Library.pdb
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 2 Generics, Collections, and LINQ\Exercise Files\Ch01\03\Begin\LinkedIn.Essentials2\Essentials2.Library\obj\Debug\net6.0\Essentials2.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 2 Generics, Collections, and LINQ\Exercise Files\Ch01\03\Begin\LinkedIn.Essentials2\Essentials2.Library\obj\Debug\net6.0\Essentials2.Library.AssemblyInfoInputs.cache
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 2 Generics, Collections, and LINQ\Exercise Files\Ch01\03\Begin\LinkedIn.Essentials2\Essentials2.Library\obj\Debug\net6.0\Essentials2.Library.AssemblyInfo.cs
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 2 Generics, Collections, and LINQ\Exercise Files\Ch01\03\Begin\LinkedIn.Essentials2\Essentials2.Library\obj\Debug\net6.0\Essentials2.Library.csproj.CoreCompileInputs.cache
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 2 Generics, Collections, and LINQ\Exercise Files\Ch01\03\Begin\LinkedIn.Essentials2\Essentials2.Library\obj\Debug\net6.0\Essentials2.Library.dll
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 2 Generics, Collections, and LINQ\Exercise Files\Ch01\03\Begin\LinkedIn.Essentials2\Essentials2.Library\obj\Debug\net6.0\refint\Essentials2.Library.dll
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 2 Generics, Collections, and LINQ\Exercise Files\Ch01\03\Begin\LinkedIn.Essentials2\Essentials2.Library\obj\Debug\net6.0\Essentials2.Library.pdb
+C:\Users\Khusan\Desktop\EPAM .NET\C# Essential Training 2 Generics, Collections, and LINQ\Exercise Files\Ch01\03\Begin\LinkedIn.Essentials2\Essentials2.Library\obj\Debug\net6.0\ref\Essentials2.Library.dll

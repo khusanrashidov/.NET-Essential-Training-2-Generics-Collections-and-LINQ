@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LinkedIn.Essentials2/1.0.0": {
+        "dependencies": {
+          "Essentials2.Library": "1.0.0"
+        },
+        "runtime": {
+          "LinkedIn.Essentials2.dll": {}
+        }
+      },
+      "Essentials2.Library/1.0.0": {
+        "runtime": {
+          "Essentials2.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinkedIn.Essentials2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Essentials2.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
